@@ -29,3 +29,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/
+/spring-application.iml
+/HELP.md

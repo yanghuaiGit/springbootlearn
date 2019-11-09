@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/
+/target/
+/springmvctemplate.iml
+/HELP.md
